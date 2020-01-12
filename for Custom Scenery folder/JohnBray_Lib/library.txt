@@ -17,7 +17,10 @@ EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_8.fac
 
 EXPORT JohnBray_Lib/casa_1S.fac  facades/casa_SS_stone.fac
 
-EXPORT JohnBray_Lib/ermita.obj  objects/ermita.obj
+EXPORT JohnBray_Lib/ermita.obj  objects/buildings/public/ermita.obj
+
+EXPORT JohnBray_Lib/helipads/stone/helipad-25dia.obj	objects/helipads/stone/helipad-25dia.obj
+EXPORT JohnBray_Lib/helipads/wood/helipadPier24x48.obj	objects/helipads/wood/helipadPier24x48.obj
 
 
 
