@@ -1,0 +1,31 @@
+A
+800
+LIBRARY
+
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_1b.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_2b.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_5b.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_8b.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_1.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_2.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_3.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_4.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_5.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_6.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_7.fac
+EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_8.fac
+
+EXPORT JohnBray_Lib/casa_1S.fac  facades/casa_SS_stone.fac
+
+EXPORT JohnBray_Lib/ermita.obj  objects/ermita.obj
+
+
+
+
+
+
+
+
+
+
+
