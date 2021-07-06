@@ -2,6 +2,24 @@ A
 800
 LIBRARY
 
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/01.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/02.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/03.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/04.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/05.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/06.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/07.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/08.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/09.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/10.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/11.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/12.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/13.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/14.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/15.obj
+EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/16.obj
+
+
 EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_1b.fac
 EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_2b.fac
 EXPORT JohnBray_Lib/casa_2S.fac  facades/casa_2S_5b.fac
