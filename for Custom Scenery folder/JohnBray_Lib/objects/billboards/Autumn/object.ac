@@ -1,0 +1,245 @@
+AC3Db
+MATERIAL "ac3dmat1" rgb 1 1 1  amb 0.2 0.2 0.2  emis 0 0 0  spec 0.2 0.2 0.2  shi 128  trans 0
+MATERIAL "ac3dmat5" rgb 1 1 0  amb 0.2 0.2 0.2  emis 0 0 0  spec 0.2 0.2 0.2  shi 128  trans 0
+OBJECT world
+kids 1
+OBJECT group
+name "Default LOD"
+loc 0 5 0
+kids 2
+OBJECT group
+name "ANIMATION_billBoard_INN"
+data 10
+animated=1
+kids 5
+OBJECT poly
+name "Hide when EXTernal view"
+loc 0 -5 0
+data 127
+anim_type=5
+anim_keyframe_count=2
+anim_loop=0.000000
+value0=0.500000
+value1=1.000000
+dataref=sim/graphics/view/view_is_external
+texture "texture.png"
+crease 45.000000
+numvert 2
+0 0 0
+0 0 0
+numsurf 1
+SURF 0x32
+mat 1
+refs 2
+0 0 0.75
+1 0 0.75
+kids 0
+OBJECT poly
+name "rotate_ground_track_mag_pilot"
+data 184
+anim_type=1
+anim_keyframe_count=2
+anim_loop=0.000000
+value0=-90.000000
+angle0=90.000000
+value1=90.000000
+angle1=-90.000000
+dataref=sim/cockpit2/gauges/indicators/ground_track_mag_pilot
+texture "texture.png"
+crease 45.000000
+hidden
+numvert 2
+0 2.5 0
+0 -2.5 0
+numsurf 1
+SURF 0x32
+mat 1
+refs 2
+1 0 0
+0 0 0
+kids 0
+OBJECT poly
+name "rotate_mag_psi"
+loc 0 -2 0
+data 163
+anim_type=1
+anim_keyframe_count=2
+anim_loop=0.000000
+value0=-90.000000
+angle0=90.000000
+value1=90.000000
+angle1=-90.000000
+dataref=sim/flightmodel/position/mag_psi
+texture "texture.png"
+crease 45.000000
+numvert 2
+0 1.5 0
+0 -1.5 0
+numsurf 1
+SURF 0x32
+mat 1
+refs 2
+1 0 0.75
+0 0 0.75
+kids 0
+OBJECT poly
+name "rotate_pilots_head_psi"
+loc 0 -2 0
+data 164
+anim_type=1
+anim_keyframe_count=2
+anim_loop=0.000000
+value0=-90.000000
+angle0=90.000000
+value1=90.000000
+angle1=-90.000000
+dataref=sim/graphics/view/pilots_head_psi
+texture "texture.png"
+crease 45.000000
+numvert 2
+0 1.5 0
+0 -1.5 0
+numsurf 1
+SURF 0x32
+mat 1
+refs 2
+1 0 0.75
+0 0 0.75
+kids 0
+OBJECT poly
+name "mainScreen"
+loc 0 -2 -0.2
+texture "texture.png"
+crease 45.000000
+numvert 4
+3 -3 0.2
+3 3 0.2
+-3 -3 0.2
+-3 3 0.2
+numsurf 1
+SURF 0x10
+mat 0
+refs 4
+3 0.5 0.25
+2 0.5 0
+0 0.75 0
+1 0.75 0.25
+kids 0
+OBJECT group
+name "ANIMATION_billBoard_OUT"
+data 10
+animated=1
+kids 5
+OBJECT poly
+name "Hide when INTerrnal view"
+loc 0 -5 0
+data 127
+anim_type=5
+anim_keyframe_count=2
+anim_loop=0.000000
+value0=0.000000
+value1=0.500000
+dataref=sim/graphics/view/view_is_external
+texture "texture.png"
+crease 45.000000
+numvert 2
+0 0 0
+0 0 0
+numsurf 1
+SURF 0x32
+mat 1
+refs 2
+1 0 0.75
+0 0 0.75
+kids 0
+OBJECT poly
+name "rotate_ground_track_mag_pilot"
+data 184
+anim_type=1
+anim_keyframe_count=2
+anim_loop=0.000000
+value0=-90.000000
+angle0=90.000000
+value1=90.000000
+angle1=-90.000000
+dataref=sim/cockpit2/gauges/indicators/ground_track_mag_pilot
+texture "texture.png"
+crease 45.000000
+hidden
+numvert 2
+0 -2.5 0
+0 2.5 0
+numsurf 1
+SURF 0x32
+mat 1
+refs 2
+0 0 0
+1 0 0
+kids 0
+OBJECT poly
+name "rotate_mag_psi"
+data 163
+anim_type=1
+anim_keyframe_count=2
+anim_loop=0.000000
+value0=-90.000000
+angle0=90.000000
+value1=90.000000
+angle1=-90.000000
+dataref=sim/flightmodel/position/mag_psi
+texture "texture.png"
+crease 45.000000
+hidden
+numvert 2
+0 -2.5 0
+0 2.5 0
+numsurf 1
+SURF 0x32
+mat 1
+refs 2
+0 0 0
+1 0 0
+kids 0
+OBJECT poly
+name "rotate_pilots_head_psi"
+loc 0 -2 0
+data 164
+anim_type=1
+anim_keyframe_count=2
+anim_loop=0.000000
+value0=-90.000000
+angle0=90.000000
+value1=90.000000
+angle1=-90.000000
+dataref=sim/graphics/view/pilots_head_psi
+texture "texture.png"
+crease 45.000000
+numvert 2
+0 -1.5 0
+0 1.5 0
+numsurf 1
+SURF 0x32
+mat 1
+refs 2
+0 0 0.75
+1 0 0.75
+kids 0
+OBJECT poly
+name "mainScreen"
+loc 0 -2 -0.2
+texture "texture.png"
+crease 45.000000
+numvert 4
+-3 3 0.2
+-3 -3 0.2
+3 3 0.2
+3 -3 0.2
+numsurf 1
+SURF 0x10
+mat 0
+refs 4
+0 0.5 0.25
+1 0.5 0
+3 0.75 0
+2 0.75 0.25
+kids 0
