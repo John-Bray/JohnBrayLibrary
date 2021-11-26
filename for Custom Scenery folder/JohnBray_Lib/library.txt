@@ -36,14 +36,14 @@ EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/14.obj
 EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/15.obj
 EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/16.obj
 
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Walker-uniform/01.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Walker-uniform/02.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Walker-uniform/03.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Walker-uniform/04.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Walker-uniform/05.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Walker-uniform/06.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Walker-uniform/07.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Walker-uniform/08.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/G8M+Seb_Jeans/01.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/G8M+Seb_Jeans/02.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/G8M+Seb_Jeans/03.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/G8M+Seb_Jeans/04.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/G8M+Seb_Jeans/05.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/G8M+Seb_Jeans/06.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/G8M+Seb_Jeans/07.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/G8M+Seb_Jeans/08.obj
 
 EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Bardot/01.obj
 EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Bardot/02.obj
@@ -81,14 +81,14 @@ EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Lauren-suit/0
 EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Lauren-suit/07.obj
 EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Lauren-suit/08.obj
 
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform/01.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform/02.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform/03.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform/04.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform/05.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform/06.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform/07.obj
-EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform/08.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/SixPack/01.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/SixPack/02.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/SixPack/03.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/SixPack/04.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/SixPack/05.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/SixPack/06.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/SixPack/07.obj
+EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/SixPack/08.obj
 
 EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform-army/01.obj
 EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Standing-uniform-army/02.obj
