@@ -36,6 +36,23 @@ EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/14.obj
 EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/15.obj
 EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/16.obj
 
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/01.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/02.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/03.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/04.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/05.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/06.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/07.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/08.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/09.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/10.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/11.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/12.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/13.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/14.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/15.obj
+EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/16.obj
+
 EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/G8M+Seb_Jeans/01.obj
 EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Bardot/02.obj
 EXPORT JohnBray_Lib/billboards/Peeps.obj  objects/billboards/Peeps/Gore/03.obj
