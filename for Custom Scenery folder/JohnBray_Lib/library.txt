@@ -36,6 +36,23 @@ EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/14.obj
 EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/15.obj
 EXPORT JohnBray_Lib/billboards/Olivo.obj  objects/billboards/Olivos/16.obj
 
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/01.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/02.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/03.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/04.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/05.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/06.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/07.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/08.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/09.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/10.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/11.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/12.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/13.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/14.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/15.obj
+EXPORT JohnBray_Lib/billboards/Tree_A.obj  objects/billboards/Trees_A/16.obj
+
 EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/01.obj
 EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/02.obj
 EXPORT JohnBray_Lib/billboards/Yucca.obj  objects/billboards/Yuccas/03.obj
